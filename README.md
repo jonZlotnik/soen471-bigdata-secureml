@@ -8,4 +8,8 @@ Another means by which one can gather data sets is by requesting anonymized data
 
 With advances in cryptography over the last 20 years in the areas of multi-party computation, homomorphic encryption, and smart-contracts, several options for computing on private data sets have been developped.
 In order to better understand the tools currently available to the big-data researcher, we develop a prototype solution for analyzing private medical images.
-In documenting our experience and concerns, with regards to security, privacy, efficiency, and complexity of the process, we provide a sense of how feasible publicly computing on private medical images is with current tooling.
+We discuss the implications of the overhead introduced by the available tools for computing securely on private datasets as they scale. 
+Finally, we analyze the trade-offs one could consider if the overhead, introduced by the secure protocols, proves to be crippling.
+
+We ensure meaningful comparison of tools by builing an "end to end" pipeline for medical image processing and pinpointing where  each protocal is used in the pipeline.
+In documenting our experience and concerns, with regards to security, privacy, efficiency, and complexity of these processes, we provide a sense of how feasible publicly computing on private medical images is with current tooling.
