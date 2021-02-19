@@ -12,5 +12,14 @@ In documenting our experience and concerns, with regards to security, privacy, e
 
 ## Introduction
 
+### Context and objectives
+
+### Presentation of the problem
+
+### Related work
+
 ## Materials and Methods
 
+### Datasets
+
+### Technologies and algorithms
