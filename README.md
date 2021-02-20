@@ -18,8 +18,17 @@ In documenting our experience and concerns, with regards to security, privacy, e
 
 ### Related work
 
+
 ## Materials and Methods
 
 ### Datasets
 
+https://github.com/echonet/dynamic
+
 ### Technologies and algorithms
+
+#### Homomorphic Cryptography
+
+#### Secure Multiparty Computation
+
+#### Blockchains and Smart Contracts
