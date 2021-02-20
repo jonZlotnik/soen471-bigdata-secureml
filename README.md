@@ -28,7 +28,13 @@ https://github.com/echonet/dynamic
 ### Technologies and algorithms
 
 #### Homomorphic Cryptography
+https://github.com/wfus/Fully-Homomorphic-Image-Processing
+https://www.microsoft.com/en-us/research/project/microsoft-seal/
+https://homomorphicencryption.org/introduction/
 
 #### Secure Multiparty Computation
+
+https://mortendahl.github.io/2018/03/01/secure-computation-as-dataflow-programs/#basics
+https://blog.openmined.org/training-cnns-using-spdz/
 
 #### Blockchains and Smart Contracts
