@@ -18,7 +18,6 @@ In documenting our experience and concerns, with regards to security, privacy, e
 
 ### Related work
 
-
 ## Materials and Methods
 
 ### Datasets
@@ -28,6 +27,7 @@ https://github.com/echonet/dynamic
 ### Technologies and algorithms
 
 #### Homomorphic Cryptography
+
 https://github.com/wfus/Fully-Homomorphic-Image-Processing
 https://www.microsoft.com/en-us/research/project/microsoft-seal/
 https://homomorphicencryption.org/introduction/
