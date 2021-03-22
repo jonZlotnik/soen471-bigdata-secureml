@@ -16,19 +16,21 @@ We ensure meaningful comparison of tools by builing an "end to end" pipeline for
 
 ### Related work
 
+- [DeepSecure: Scalable Provably-Secure Deep Learning](https://arxiv.org/ftp/arxiv/papers/1705/1705.08963.pdf)
+
 ## Materials and Methods
 
 ### Datasets
 
-[EchoNet from Stanford](https://github.com/echonet/dynamic)
+- [EchoNet from Stanford](https://github.com/echonet/dynamic)
 
 ### Technologies and algorithms
 
 #### Homomorphic Cryptography
 
-https://github.com/wfus/Fully-Homomorphic-Image-Processing
-https://www.microsoft.com/en-us/research/project/microsoft-seal/
-https://homomorphicencryption.org/introduction/
+- [FHE Image Processing](https://github.com/wfus/Fully-Homomorphic-Image-Processing)
+- [Microsoft SEAL FHE Libraries](https://www.microsoft.com/en-us/research/project/microsoft-seal/)
+- [homomorphicencryption.org](https://homomorphicencryption.org/introduction/)
 
 #### Secure Multiparty Computation
 
