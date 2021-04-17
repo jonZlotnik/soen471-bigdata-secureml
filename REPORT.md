@@ -1,3 +1,5 @@
+# A comparative study of secure methods for public computation on private medical echocardiograms
+
 - [A comparative study of secure methods for public computation on private medical echocardiograms](#a-comparative-study-of-secure-methods-for-public-computation-on-private-medical-echocardiograms)
   - [Abstract](#abstract)
   - [I. Introduction](#i-introduction)
@@ -5,8 +7,6 @@
   - [III. Results](#iii-results)
   - [IV. Discussion](#iv-discussion)
   - [V. Conclusion](#v-conclusion)
-
-# A comparative study of secure methods for public computation on private medical echocardiograms
 
 ## Abstract
 
